@@ -1,0 +1,48 @@
+Spawn Name   -   Display Name   -   List Price   -   Notes(preview)
+
+iroc  1990 Chevrolet Camaro IROC-Z  15k  (https://www.gta5-mods.com/vehicles/1990-chevrolet-camaro-iroc-z) 
+
+f150  2015 Ford F-150  30k  (https://www.gta5-mods.com/vehicles/2015-ford-f-150)
+
+impalanew  2006 Chevy Impala 15k  (https://www.gta5-mods.com/vehicles/2006-chevrolet-impala-ls)
+
+impalaold  1985 Chevrolet Impala 8k (https://www.gta5-mods.com/vehicles/chevrolet-impala-1985)
+
+bmw760  BMW 760i (e65) 25k (https://www.gta5-mods.com/vehicles/bmw-760i-e65)
+
+gwagon Mercedes-Benz G65 AMG 100k (https://www.gta5-mods.com/vehicles/mercedes-benz-g63-amg)
+
+srt8 Jeep SRT-8 2015 45k (https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace)
+
+delta88b 1973 Oldsmobile Delta 88(rusty) 3k (https://www.gta5-mods.com/vehicles/1973-oldsmobile-delta-88)
+
+suburban 2016 Chevrolet Suburban 50k (https://www.gta5-mods.com/vehicles/2016-chevrolet-suburban-add-on-replace)
+
+prius Toyota Prius 20k (https://www.gta5-mods.com/vehicles/toyota-prius)
+
+oldram 1999 Dodge Ram 1500 15k (https://www.gta5-mods.com/vehicles/2001-dodge-ram-1500-club-cab-replace)
+
+focus 2017 Ford Focus RS 30k (https://www.gta5-mods.com/vehicles/2016-2017-ford-focus-rs)
+
+fusion 2017 Ford Fusion 22k  (https://www.gta5-mods.com/vehicles/2016-2017-ford-mondeo-saloon)
+
+rav4  Toyota RAV4  18k  (https://www.gta5-mods.com/vehicles/toyota-rav4-xa20-add-on-replace)
+
+camry 2009 Toyota Camry 15k (https://www.gta5-mods.com/vehicles/2009-toyota-camry-glx-hq)
+
+executioner Vapid Executioner SUV  25k  (https://i.gyazo.com/38b8e59cdf88741cabf8cce277c559e1.jpg)
+
+greenwood Schyster Greenwood 9k   (https://i.gyazo.com/60c341c11de3f7a9aaebc8966061c84f.jpg) 
+
+sadler4 Sadler F-150 Single Cab Truck 10k (https://i.gyazo.com/92bf5b2a89edc3dfceddd0ff32760217.jpg)
+
+sandking3 Sandking F250 Crew Cab Truck 20k  (https://i.gyazo.com/44e422cd69a72fd62df3eb7d06b65a47.jpg)
+
+stratum3 Stratum Coupe 8k (https://i.gyazo.com/923b8a8785eda7b40f4cb70ac3653054.jpg)
+
+yosemite3 Brute Yosemite Truck 20k (https://i.gyazo.com/64d00dfc8caa0c0f31537c57d340c0b3.jpg)
+
+civic 1999 Honda Civic 7k  (https://i.gyazo.com/6a66cc2bd0ad71518d568658b1e4f271.jpg)
+
+
+
